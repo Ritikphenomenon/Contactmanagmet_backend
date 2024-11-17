@@ -124,21 +124,6 @@ This project is a Contacts Management App built with React.js, Material-UI, and 
 
 ---
 
-## Screenshots
-
-1. **Home Page - Contacts List**:
-
-   ![Contacts List](assets/contact-list.png)
-
-2. **Add/Edit Contact Form**:
-
-   ![Add/Edit Contact Form](assets/add-contact-form.png)
-
-3. **Search Bar in Action**:
-
-   ![Search Bar](assets/search-bar.png)
-
----
 
 ## Contributing
 
